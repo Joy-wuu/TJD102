@@ -1,3 +1,13 @@
 body{
     font-size: 16px;
 }
+
+header{
+    background-color: aqua;
+}
+
+div h1{
+  font-size: 36px;
+  color: blue;
+  font-weight: bold;  
+}
